@@ -7,7 +7,7 @@ import { TYPESCRIPT_SKILLS } from '@/lib/data/FRONTEND_SKILLS/TYPESCRIPT_SKILLS'
 
 export const FRONTEND_SKILLS: ISkill = {  
   name: 'Frontend',
-  since: 2021,
+  since: 2020,
   level: 85,
   description: 'I have been working with React since 2022. Created multiple applications and websites. With a strong foundation in UI/UX design, I enjoy solving front-end challenges and creating exceptional user experiences.',
   subSkills: [

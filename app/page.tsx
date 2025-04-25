@@ -27,7 +27,7 @@ export default function Home() {
         <Contact />
       </div>
       <div className="flex gap-2">
-        <DownloadPDFButton />
+        {/* <DownloadPDFButton /> */}
         <PrintButton />
       </div>
       <footer className="text-center text-sm mb-3 print:hidden flex flex-col gap-3 items-center">
