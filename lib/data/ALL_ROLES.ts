@@ -41,7 +41,7 @@ export const ROLES: IRole[] = [
     title: "Wombat Exchange Project",
     company: "Sotatek Viet Nam Company",
     location: "Goden Park, Yen Hoa, Cau Giay, Ha Noi",
-    startDate: "Feb 2024",
+    startDate: "Jan 2024",
     endDate: "Aug 2024",
     description: "",
     achievements: [
@@ -56,11 +56,27 @@ export const ROLES: IRole[] = [
     ],
   },
   {
+    title: "Connin Exchange",
+    company: "Sotatek Viet Nam Company",
+    location: "Goden Park, Yen Hoa, Cau Giay, Ha Noi",
+    startDate: "Aug 2023",
+    endDate: "Dec 2023",
+    description: "",
+    achievements: [
+      ["Build a BO exchange"],
+
+      ["Build features to the transaction of Connin"],
+      ["Create Wallets"],
+      ["Get, send, swap Bitcoin, ETH, and tokens in the Ethereum  network"],
+      ["Create logic to transaction BO exchange"],
+    ],
+  },
+  {
     title: "Virtual Account Management",
     company: "Sotatek Viet Nam Company",
     location: "Goden Park, Yen Hoa, Cau Giay, Ha Noi",
-    startDate: "Jan 2024",
-    endDate: "Jul 2024",
+    startDate: "Jan 2023",
+    endDate: "Jul 2023",
     description: "",
     achievements: [
       ["Daily meetings to report task updates to the customer."],
@@ -72,9 +88,9 @@ export const ROLES: IRole[] = [
   {
     title: "Thai Yen Coffee",
     company: "BMBSoft Viet Nam Ltd Company",
-    location: "Goden Park, Yen Hoa, Cau Giay, Ha Noi",
-    startDate: "Feb 2023",
-    endDate: "Dec 2023",
+    location: "so 11 Trinh Van Bo, Xuan Phuong, Nam Tu Liem, Ha Noi",
+    startDate: "Apr 2022",
+    endDate: "Nov 2022",
     description: "",
     achievements: [
       [
@@ -96,8 +112,8 @@ export const ROLES: IRole[] = [
     title: "Recognition & Award Tool Project",
     company: "BMBSoft Viet Nam Ltd Company",
     location: "so 11 Trinh Van Bo, Xuan Phuong, Nam Tu Liem, Ha Noi",
-    startDate: "Mar 2022",
-    endDate: "Jan 2023",
+    startDate: "Jul 2021",
+    endDate: "Mar 2022",
     description: "",
     achievements: [
       [
@@ -105,6 +121,21 @@ export const ROLES: IRole[] = [
       ],
 
       ["Building responsive on the web."],
+    ],
+  },
+  {
+    title: "Device Gateway",
+    company: "BMBSoft Viet Nam Ltd Company",
+    location: "so 11 Trinh Van Bo, Xuan Phuong, Nam Tu Liem, Ha Noi",
+    startDate: "Feb 2021",
+    endDate: "Jun 2021",
+    description: "",
+    achievements: [
+      ["Create a website as design"],
+
+      ["Bring up build tree and the environment"],
+
+      ["Cowork with BackEnd engineers to integrate Restful API"],
     ],
   },
 ];

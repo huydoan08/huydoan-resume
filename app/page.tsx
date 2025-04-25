@@ -32,7 +32,7 @@ export default function Home() {
       </div>
       <footer className="text-center text-sm mb-3 print:hidden flex flex-col gap-3 items-center">
         <div className="flex items-center gap-1">
-          All rights reserved by Huy Doan.
+          All rights reserved by Huy Doan (Hugo).
         </div>
       </footer>
     </main>
